@@ -1,4 +1,4 @@
-package isp_principio_segregação_interface.solucao;
+package isp_principio_segregacao_interface.solucao;
 
 public interface GerarRelatorioVendasPDF {
 

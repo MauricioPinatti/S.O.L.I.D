@@ -1,4 +1,4 @@
-package isp_principio_segregação_interface;
+package isp_principio_segregacao_interface;
 
 public class DefinicaoISP {
 

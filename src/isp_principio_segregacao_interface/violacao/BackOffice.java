@@ -1,7 +1,6 @@
-package isp_principio_segregação_interface.solucao;
+package isp_principio_segregacao_interface.violacao;
 
-
-public class BackOffice implements GerarRelatorioVendasExcel, GerarRelatorioVendasPDF {
+public class BackOffice implements GerarRelatorioVendas {
     @Override
     public void gerarExcel() {
         System.out.println("Show! Super útil pra mim");
